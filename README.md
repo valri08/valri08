@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valri08
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Web Programming
+- 🌱 I’m currently learning Code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me novalhari8@gmail.com
 
